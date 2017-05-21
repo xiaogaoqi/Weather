@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="gao_weater"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.gao.weather.db.Province"/>
+        <mapping class="com.gao.weather.db.City"/>
+        <mapping class="com.gao.weather.db.County"/>
+    </list>
+
+</litepal>
